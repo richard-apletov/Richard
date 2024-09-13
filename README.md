@@ -1,8 +1,8 @@
-# Zaluea
-This is an official proxy of [Zaluea Network](https://discord.gg/8SDaUugBqu).
+# SkillForge Academy
+This is an official proxy of [SkillForge Academy Network](https://discord.gg/hv4zWYP6Sp).
 
 ## Games
 So far there is only one game. More will be added soon.
 
 ## Credits
-Zaluea uses [Ultraviolet](https://github.com/titaniumnetwork-dev/Ultraviolet)
+SkillForge Academy uses [Ultraviolet](use my discord)
