@@ -1,5 +1,5 @@
 var updates = [
-    {message: "Welcome to the 3rd official release of Andyum!"}
+    {message: "Welcome to the 1st official release of iii_dev headquarters!"}
 ];
 var updatespage = document.getElementById("updatespage");
 for(let item of updates) {
